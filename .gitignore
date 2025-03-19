@@ -3,3 +3,4 @@ build/*
 .venv/*
 encrypt_data.egg-info/*
 setup.py
+.gitignore
